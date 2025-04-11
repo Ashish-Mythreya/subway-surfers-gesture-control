@@ -23,3 +23,7 @@ A Python project to control *Subway Surfers* on [Poki](https://poki.com/en/g/sub
    ```bash
    git clone https://github.com/your-username/subway-surfers-gesture-control.git
    cd subway-surfers-gesture-control
+
+## Demo
+Watch the execution video: [Gesture Control Video](videos/gesture_control.mp4)
+(Note: Download to view, 75.6 MB)
